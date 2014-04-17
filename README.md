@@ -44,7 +44,7 @@
     * Selectors
         * Avoid too many selectors
         * Know the structure of you HTML, don't guess it
-            * Use <tbody> and <thead> in tables
+            * Use &lt;tbody&gt; and &lt;thead&gt; in tables
     * Media queries
         * Keep them in the same file to avoid too many HTTP requests
     * Why we haven't seen the parent selector
